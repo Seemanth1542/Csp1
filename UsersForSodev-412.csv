@@ -1,0 +1,160 @@
+﻿USERNAME,PASSWORD,DOD_ID,RANK,DUTY_EMAIL,DUTY_PHONE,PAS_CODE,PAS_CODE_ID,CPTS,CPTS_FIELD_VALUE,MAJCOM_FIELD_VALUE,IS_CREATED_SELF,CAT,SUBCAT,OAC,OBAN,MODE_OF_INQUIRY
+acc.dfas.1,Idea%24123,9846565165,AB,acc.dfas.1@,9.88E+15,HH4GFR2G,38444,,502 CPTS,AETC,Self,Civilian Pay,Advance Leave, , ,
+acc.majcom.1,Idea%24123,3492374278,Amn,acc.majcom.1@,8889997731,HH4GFR2G,38444,,502 CPTS,AETC,Self,Civilian Pay,AF 3821, , ,
+acc.majcom.2,Idea%24123,3492374277,A1C,acc.majcom.2@,4456672198,HH4GFR2G,38444,,502 CPTS,AETC,Self,Civilian Pay,Annual Leave, , ,
+acc.majcom.3,Idea%24123,3492374276,SrA,acc.majcom.3@,7894566128,HH4GFR2G,38444,,502 CPTS,AETC,Self,Civilian Pay,ATAAPS Access Request, , ,
+acc.manager.1,Idea%24123,8908908908,SSgt,acc.manager.1@,9284445876,HH4GFR2G,38444,,502 CPTS,AETC,Self,Civilian Pay,DD577, , ,
+acc.manager.2,Idea%24123,8908908907,TSgt,acc.manager.2@,9284445875,HH4GFR2G,38444,,502 CPTS,AETC,Self,Civilian Pay,Debt, , ,
+acc.manager.3,Idea%24123,8908908906,MSgt,acc.manager.3@,9284445874,HH4GFR2G,38444,,502 CPTS,AETC,Self,Civilian Pay,DFAS Remedy, , ,
+acc.saffmf.1,Idea%24123,8908908905,SMSgt,acc.saffmf.1@,9284445873,HH4GFR2G,38444,,502 CPTS,AETC,Self,Civilian Pay,Direct Deposit, , ,
+acc.saffmf.2,Idea%24123,8908908904,CMSgt,acc.saffmf.2@,9284445872,HH4GFR2G,38444,,502 CPTS,AETC,Self,Civilian Pay,DISA ATAAPS, , ,
+acc.saffmf.3,Idea%24123,8908908903,CMSAF,acc.saffmf.3@,9284445871,HH4GFR2G,38444,,502 CPTS,AETC,Self,Civilian Pay,DMAP TAA, , ,
+Acc.supervisor.1,Idea%24123,8908908902,2d Lt,Acc.supervisor.1@,9284445870,HH4GFR2G,38444,,502 CPTS,AETC,Self,Civilian Pay,Donated Leave, , ,
+Acc.supervisor.2,Idea%24123,8908908901,1st Lt,Acc.supervisor.2@,9284445869,HH4GFR2G,38444,,502 CPTS,AETC,Self,Civilian Pay,JOCAS Access Request, , ,
+acc.supervisor.3,Idea%24123,8908908900,Capt,acc.supervisor.3@,9284445868,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Accession, , ,
+acc.tech.1,Idea%24123,8908908899,Maj,acc.tech.1@,9284445867,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Allotments, , ,
+acc.tech.2,Idea%24123,8908908898,Lt Col,acc.tech.2@,9284445866,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Basic Allowance for Housing (BAH)- Adoption, , ,
+acc.tech.3,Idea%24123,8908908897,Col,acc.tech.3@,9284445865,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Basic Allowance for Housing (BAH)- Birth of Child, , ,
+ba1,Idea%24123,8908908896,Brig Gen,ba1@,9284445864,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Basic Allowance for Housing (BAH)- Divorce, , ,
+ba10,Idea%24123,8908908895,Maj Gen,ba10@,9284445863,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Basic Allowance for Housing (BAH)- General Inquiry, , ,
+ba2,Idea%24123,8908908894,Lt Gen,ba2@,9284445862,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Basic Allowance for Housing (BAH)- Marriage, , ,
+ba3,Idea%24123,8908908893,Gen,ba3@,9284445861,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Basic Allowance for Housing (BAH)- Secondary Dependents, , ,
+ba4,Idea%24123,8908908892,CIV,ba4@,9284445860,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Basic Allowance for Housing (BAH)- Termination of Quarters, , ,
+ba5,Idea%24123,8908908891,CTR,ba5@,9284445859,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Basic Allowance for Subsistance (BAS), , ,
+ba7,Idea%24123,8908908889,Amn,ba7@,9284445857,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Combat Zone Tax Exclusion (CZTE), , ,
+ba8,Idea%24123,8908908888,A1C,ba8@,9284445856,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Copy of LES not in MyPay, , ,
+ba9,Idea%24123,8908908887,SrA,ba9@,9284445855,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Copy of W2 not in MyPay, , ,
+budget.afimsc.1,Idea%24123,8908908886,SSgt,budget.afimsc.1@,9284445854,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Cost of Living Allowance (COLA), , ,
+budget.afimsc.3,Idea%24123,8908908884,MSgt,budget.afimsc.3@,9284445852,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Family Separation Allowance (FSA), , ,
+budget.analyst.1,Idea%24123,8908908883,SMSgt,budget.analyst.1@,9284445851,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Hardship Duty Pay (HDP), , ,
+budget.analyst.2,Idea%24123,8908908882,CMSgt,budget.analyst.2@,9284445850,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Hostile Fire Pay (HFP), , ,
+budget.analyst.3,Idea%24123,8908908881,CMSAF,budget.analyst.3@,9284445849,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Leave Sell, , ,
+ba.manager.1,Idea%24123,8908908880,2d Lt,ba.manager.1@,9284445848,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Leave Web Access, , ,
+ba.manager.2,Idea%24123,8908908879,1st Lt,ba.manager.2@,9284445847,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Leave Web Assistance, , ,
+ba.manager.3,Idea%24123,8908908878,Capt,ba.manager.3@,9284445846,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,MyPay Access, , ,
+ba.supervisor.1,Idea%24123,8908908877,Maj,ba.supervisor.1@,9284445845,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Other, , ,
+ba.supervisor.2,Idea%24123,8908908876,Lt Col,ba.supervisor.2@,9284445844,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Overseas Housing Allowance (OHA), , ,
+ba.supervisor.3,Idea%24123,8908908875,Col,ba.supervisor.3@,9284445843,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Partial Pay, , ,
+Budget.Comptroller.1,Idea%24123,8908908874,Brig Gen,Budget.Comptroller.1@,9284445842,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Pay Advance - Base Pay/Housing Allowance, , ,
+budget.comptroller.2,Idea%24123,8908908873,Maj Gen,budget.comptroller.2@,9284445841,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,PCS Inprocessing, , ,
+budget.comptroller.3,Idea%24123,8908908872,Lt Gen,budget.comptroller.3@,9284445840,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,PCS Outprocessing, , ,
+budget.dfas.1,Idea%24123,8908908871,Gen,budget.dfas.1@,9284445839,HH4GFR2G,38444,,502 CPTS,AETC,Self,Travel Pay,Advance Travel Allowance- DLA/PCS/PPM, , ,
+budget.dfas.2,Idea%24123,8908908870,CIV,budget.dfas.2@,9284445838,HH4GFR2G,38444,,502 CPTS,AETC,Self,Travel Pay,Civilian- House Hunting Trip (HHT), , ,
+budget.majcom.1,Idea%24123,8908908869,CTR,budget.majcom.1@,9284445837,HH4GFR2G,38444,,502 CPTS,AETC,Self,Travel Pay,Civilian- Miscellaneous Expense Allowance (MEA), , ,
+budget.majcom.2,Idea%24123,8908908868,AB,budget.majcom.2@,9284445836,HH4GFR2G,38444,,502 CPTS,AETC,Self,Travel Pay,Civilian- Real Estate Claim, , ,
+budget.majcom.3,Idea%24123,8908908867,Amn,budget.majcom.3@,9284445835,HH4GFR2G,38444,,502 CPTS,AETC,Self,Travel Pay,Civilian- Relocation Income Tax Allowance (RITA), , ,
+budget.saffmb.1,Idea%24123,8908908866,A1C,budget.saffmb.1@,9284445834,HH4GFR2G,38444,,502 CPTS,AETC,Self,Travel Pay,Civilian- Temporary Quarters Subsistence Allowance (TQSA), , ,
+budget.saffmb.2,Idea%24123,8908908865,SrA,budget.saffmb.2@,9284445833,HH4GFR2G,38444,,502 CPTS,AETC,Self,Travel Pay,Civilian- Temporary Quarters Subsistence Expense (TQSE), , ,
+budget.saffmb.3,Idea%24123,8908908864,SSgt,budget.saffmb.3@,9284445832,HH4GFR2G,38444,,502 CPTS,AETC,Self,Travel Pay,Civilian- Unexpired Lease, , ,
+civpay.afimsc.1,Idea%24123,8908908863,TSgt,civpay.afimsc.1@,9284445831,HH4GFR2G,38444,,502 CPTS,AETC,Self,Travel Pay,DTS - Elevated Permission Request (577/Training Certificates), , ,
+civpay.afimsc.2,Idea%24123,8908908862,MSgt,civpay.afimsc.2@,9284445830,HH4GFR2G,38444,,502 CPTS,AETC,Self,Travel Pay,DTS - Partial Payments, , ,
+civpay.afimsc.3,Idea%24123,8908908861,SMSgt,civpay.afimsc.3@,9284445829,HH4GFR2G,38444,,502 CPTS,AETC,Self,Travel Pay,DTS - TDY Voucher, , ,
+TestJH11,Idea%24123,8908908780,AB,TestJH11@,9284445748,HH4GFR2G,38444,,502 CPTS,AETC,Self,Civilian Pay,Advance Leave, , ,
+TestJH12,Idea%24123,8908908779,Amn,TestJH12@,9284445747,HH4GFR2G,38444,,502 CPTS,AETC,Self,Civilian Pay,AF 3821, , ,Walk In
+TestJH3,Idea%24123,8908908778,A1C,TestJH3@,9284445746,HH4GFR2G,38444,,502 CPTS,AETC,Self,Civilian Pay,Annual Leave, , ,Phone Call
+TestJH6,Idea%24123,8908908776,SSgt,TestJH6@,9284445744,HH4GFR2G,38444,,502 CPTS,AETC,Self,Civilian Pay,DD577, , ,Email
+TestJH7,Idea%24123,8908908775,TSgt,TestJH7@,9284445743,HH4GFR2G,38444,,502 CPTS,AETC,Self,Civilian Pay,Debt, , ,Walk In
+TestJH8,Idea%24123,8908908774,MSgt,TestJH8@,9284445742,HH4GFR2G,38444,,502 CPTS,AETC,Self,Civilian Pay,DFAS Remedy, , ,Phone Call
+TestJH9,Idea%24123,8908908773,SMSgt,TestJH9@,9284445741,HH4GFR2G,38444,,502 CPTS,AETC,Self,Civilian Pay,Direct Deposit, , ,Email
+TestOds,Idea%24123,8908908770,2d Lt,TestOds@,9284445738,HH4GFR2G,38444,,502 CPTS,AETC,Self,Civilian Pay,Donated Leave, , ,Walk In
+TestOgc,Idea%24123,8908908769,1st Lt,TestOgc@,9284445737,HH4GFR2G,38444,,502 CPTS,AETC,Self,Civilian Pay,JOCAS Access Request, , ,Phone Call
+TestPM,Idea%24123,8908908767,Maj,TestPM@,9284445735,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Allotments, , ,Email
+TestPM1,Idea%24123,8908908766,Lt Col,TestPM1@,9284445734,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Basic Allowance for Housing (BAH)- Adoption, , ,Walk In
+test_sp_user,Idea%24123,8908908762,Lt Gen,test_sp_user@,9284445730,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Basic Allowance for Housing (BAH)- Marriage, , ,Phone Call
+TestSubmitter,Idea%24123,8908908761,Gen,TestSubmitter@,9284445729,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Basic Allowance for Housing (BAH)- Secondary Dependents, , ,Email
+TestSup,Idea%24123,8908908760,CIV,TestSup@,9284445728,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Basic Allowance for Housing (BAH)- Termination of Quarters, , ,Walk In
+TestSup1,Idea%24123,8908908759,CTR,TestSup1@,9284445727,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Basic Allowance for Subsistance (BAS), , ,Phone Call
+TestSup2,Idea%24123,8908908758,AB,TestSup2@,9284445726,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Clothing Allowance, , ,Email
+TestSup3,Idea%24123,8908908757,Amn,TestSup3@,9284445725,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Combat Zone Tax Exclusion (CZTE), , ,Walk In
+TestSup4,Idea%24123,8908908756,A1C,TestSup4@,9284445724,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Copy of LES not in MyPay, , ,Phone Call
+test.tech_milpay.3,Idea%24123,8908908755,SrA,test.tech_milpay.3@,9284445723,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Copy of W2 not in MyPay, , ,Email
+TestUser2,Idea%24123,8908908754,SSgt,TestUser2@,9284445722,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Cost of Living Allowance (COLA), , ,Walk In
+tp.affsc.1,Idea%24123,8908908753,TSgt,tp.affsc.1@,9284445721,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Debt, , ,Phone Call
+tp.affsc.2,Idea%24123,8908908752,MSgt,tp.affsc.2@,9284445720,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Family Separation Allowance (FSA), , ,Email
+tp.affsc.3,Idea%24123,8908908751,SMSgt,tp.affsc.3@,9284445719,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Hardship Duty Pay (HDP), , ,Walk In
+tp.afimsc.1,Idea%24123,8908908750,CMSgt,tp.afimsc.1@,9284445718,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Hostile Fire Pay (HFP), , ,Phone Call
+tp.afimsc.2,Idea%24123,8908908749,CMSAF,tp.afimsc.2@,9284445717,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Leave Sell, , ,Email
+tp.manager.1,Idea%24123,8908908747,1st Lt,tp.manager.1@,9284445715,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Leave Web Assistance, , ,Walk In
+tp.manager.2,Idea%24123,8908908746,Capt,tp.manager.2@,9284445714,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,MyPay Access, , ,Phone Call
+tp.manager.3,Idea%24123,8908908745,Maj,tp.manager.3@,9284445713,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Other, , ,Email
+tp.saffmf.1,Idea%24123,8908908744,Lt Col,tp.saffmf.1@,9284445712,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Overseas Housing Allowance (OHA), , ,Walk In
+tp.saffmf.2,Idea%24123,8908908743,Col,tp.saffmf.2@,9284445711,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Partial Pay, , ,Phone Call
+tp.saffmf.3,Idea%24123,8908908742,Brig Gen,tp.saffmf.3@,9284445710,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,Pay Advance - Base Pay/Housing Allowance, , ,Email
+tp.supervisor.1,Idea%24123,8908908741,Maj Gen,tp.supervisor.1@,9284445709,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,PCS Inprocessing, , ,Walk In
+tp.supervisor.2,Idea%24123,8908908740,Lt Gen,tp.supervisor.2@,9284445708,HH4GFR2G,38444,,502 CPTS,AETC,Self,Military Pay,PCS Outprocessing, , ,Phone Call
+tp.supervisor.3,Idea%24123,8908908739,Gen,tp.supervisor.3@,9284445707,HH4GFR2G,38444,,502 CPTS,AETC,Self,Travel Pay,Advance Travel Allowance- DLA/PCS/PPM, , ,Email
+tp.technician.1,Idea%24123,8908908738,CIV,tp.technician.1@,9284445706,HH4GFR2G,38444,,502 CPTS,AETC,Self,Travel Pay,Civilian- House Hunting Trip (HHT), , ,Walk In
+tp.technician.2,Idea%24123,8908908737,CTR,tp.technician.2@,9284445705,HH4GFR2G,38444,,502 CPTS,AETC,Self,Travel Pay,Civilian- Miscellaneous Expense Allowance (MEA), , ,Phone Call
+tp.technician.3,Idea%24123,8908908736,AB,tp.technician.3@,9284445704,HH4GFR2G,38444,,502 CPTS,AETC,Self,Travel Pay,Civilian- Real Estate Claim, , ,Email
+civpay.certifier.1,Idea%24123,8908908860,CMSgt,civpay.certifier.1@,9284445828,HH4GFR2G,38444,,502 CPTS,AETC,Self,Travel Pay,DTS CED Order Approval, , ,Walk In
+civpay.certifier.2,Idea%24123,8908908859,CMSAF,civpay.certifier.2@,9284445827,HH4GFR2G,38444,,502 CPTS,AETC,Other,Civilian Pay,JOCAS Access Request, , ,Phone Call
+civpay.certifier.3,Idea%24123,8908908858,2d Lt,civpay.certifier.3@,9284445826,HH4GFR2G,38444,,502 CPTS,AETC,Other,Civilian Pay,Jury Duty Leave, , ,Email
+civpay.cpo.1,Idea%24123,8908908857,1st Lt,civpay.cpo.1@,9284445825,HH4GFR2G,38444,,502 CPTS,AETC,Other,Civilian Pay,Missing Time Report, , ,Walk In
+civpay.cpo.2,Idea%24123,8908908856,Capt,civpay.cpo.2@,9284445824,HH4GFR2G,38444,,502 CPTS,AETC,Other,Civilian Pay,Other, , ,Phone Call
+civpay.cpo.3,Idea%24123,8908908855,Maj,civpay.cpo.3@,9284445823,HH4GFR2G,38444,,502 CPTS,AETC,Other,Civilian Pay,Pay Issues, , ,Email
+civpay.cpts-csr.1,Idea%24123,8908908854,Lt Col,civpay.cpts-csr.1@,9284445822,HH4GFR2G,38444,,502 CPTS,AETC,Other,Civilian Pay,Pay Table Build (Doc), , ,Walk In
+civpay.cpts-csr.2,Idea%24123,8908908853,Col,civpay.cpts-csr.2@,9284445821,HH4GFR2G,38444,,502 CPTS,AETC,Other,Civilian Pay,Sick Leave, , ,Phone Call
+civpay.cpts-csr.3,Idea%24123,8908908852,Brig Gen,civpay.cpts-csr.3@,9284445820,HH4GFR2G,38444,,502 CPTS,AETC,Other,Civilian Pay,Taxes- Military Spouse, , ,Email
+civpay.cptscsrmgr.1,Idea%24123,8908908851,Maj Gen,civpay.cptscsrmgr.1@,9284445819,HH4GFR2G,38444,,502 CPTS,AETC,Other,Civilian Pay,Taxes- State/Federal, , ,Walk In
+civpay.cptscsrmgr.2,Idea%24123,8908908850,Lt Gen,civpay.cptscsrmgr.2@,9284445818,HH4GFR2G,38444,,502 CPTS,AETC,Other,Civilian Pay,Thrift Savings Plan (TSP), , ,Phone Call
+civpay.cptscsrmgr.3,Idea%24123,8908908849,Gen,civpay.cptscsrmgr.3@,9284445817,HH4GFR2G,38444,,502 CPTS,AETC,Other,Civilian Pay,Time Card certification, , ,Email
+civpay.dfas.1,Idea%24123,8908908848,CIV,civpay.dfas.1@,9284445816,HH4GFR2G,38444,,502 CPTS,AETC,Other,Civilian Pay,Work Schedules, , ,Phone Call
+civpay.timekeeper.1,Idea%24123,8908908847,CTR,civpay.timekeeper.1@,9284445815,HH4GFR2G,38444,,502 CPTS,AETC,Other,Military Pay,Clothing Allowance, , ,Email
+civpay.timekeeper.2,Idea%24123,8908908846,AB,civpay.timekeeper.2@,9284445814,HH4GFR2G,38444,,502 CPTS,AETC,Other,Military Pay,Combat Zone Tax Exclusion (CZTE), , ,
+civpay.timekeeper.3,Idea%24123,8908908845,Amn,civpay.timekeeper.3@,9284445813,HH4GFR2G,38444,,502 CPTS,AETC,Other,Military Pay,Copy of LES not in MyPay, , ,
+dcs.qa1,Idea%24123,8908908844,A1C,dcs.qa1@,9284445812,HH4GFR2G,38444,,502 CPTS,AETC,Other,Military Pay,Copy of W2 not in MyPay, , ,
+leadacc.tech.1,Idea%24123,8908908843,SrA,leadacc.tech.1@,9284445811,HH4GFR2G,38444,,502 CPTS,AETC,Other,Military Pay,Cost of Living Allowance (COLA), , ,
+leadacc.tech.2,Idea%24123,8908908842,SSgt,leadacc.tech.2@,9284445810,HH4GFR2G,38444,,502 CPTS,AETC,Other,Military Pay,Debt, , ,
+leadacc.tech.3,Idea%24123,8908908841,TSgt,leadacc.tech.3@,9284445809,HH4GFR2G,38444,,502 CPTS,AETC,Other,Military Pay,Family Separation Allowance (FSA), , ,
+leadbudget.analyst.1,Idea%24123,8908908840,MSgt,leadbudget.analyst.1@,9284445808,HH4GFR2G,38444,,502 CPTS,AETC,Other,Military Pay,Hardship Duty Pay (HDP), , ,
+leadbudget.analyst.2,Idea%24123,8908908839,SMSgt,leadbudget.analyst.2@,9284445807,HH4GFR2G,38444,,502 CPTS,AETC,Other,Military Pay,Hostile Fire Pay (HFP), , ,
+leadbudget.analyst.3,Idea%24123,8908908838,CMSgt,leadbudget.analyst.3@,9284445806,HH4GFR2G,38444,,502 CPTS,AETC,Other,Military Pay,Leave Sell, , ,
+milpay.afimsc.1,Idea%24123,8908908837,CMSAF,milpay.afimsc.1@,9284445805,HH4GFR2G,38444,,502 CPTS,AETC,Other,Military Pay,Leave Web Access, , ,
+milpay.afimsc2,Idea%24123,8908908836,2d Lt,milpay.afimsc2@,9284445804,HH4GFR2G,38444,,502 CPTS,AETC,Other,Military Pay,Leave Web Assistance, , ,
+milpay.afimsc.3,Idea%24123,8908908835,1st Lt,milpay.afimsc.3@,9284445803,HH4GFR2G,38444,,502 CPTS,AETC,Other,Military Pay,MyPay Access, , ,
+milpay.dfas.1,Idea%24123,8908908833,Maj,milpay.dfas.1@,9284445801,HH4GFR2G,38444,,502 CPTS,AETC,Other,Military Pay,Overseas Housing Allowance (OHA), , ,
+milpay.manager.1,Idea%24123,8908908832,Lt Col,milpay.manager.1@,9284445800,HH4GFR2G,38444,,502 CPTS,AETC,Other,Military Pay,Partial Pay, , ,
+milpay.manager.2,Idea%24123,8908908831,Col,milpay.manager.2@,9284445799,HH4GFR2G,38444,,502 CPTS,AETC,Other,Military Pay,Pay Advance - Base Pay/Housing Allowance, , ,
+milpay.manager.3,Idea%24123,8908908830,Brig Gen,milpay.manager.3@,9284445798,HH4GFR2G,38444,,502 CPTS,AETC,Other,Military Pay,PCS Inprocessing, , ,
+milpay.saffmf.1,Idea%24123,8908908829,Maj Gen,milpay.saffmf.1@,9284445797,HH4GFR2G,38444,,502 CPTS,AETC,Other,Military Pay,PCS Outprocessing, , ,
+milpay.saffmf.2,Idea%24123,8908908828,Lt Gen,milpay.saffmf.2@,9284445796,HH4GFR2G,38444,,502 CPTS,AETC,Other,Military Pay,Reenlistment Bonus, , ,
+milpay.saffmf.3,Idea%24123,8908908827,Gen,milpay.saffmf.3@,9284445795,HH4GFR2G,38444,,502 CPTS,AETC,Other,Military Pay,Remission, , ,
+milpay.supervisor.1,Idea%24123,8908908826,CIV,milpay.supervisor.1@,9284445794,HH4GFR2G,38444,,502 CPTS,AETC,Other,Military Pay,Retirement Briefing, , ,
+milpay.supervisor.2,Idea%24123,8908908825,CTR,milpay.supervisor.2@,9284445793,HH4GFR2G,38444,,502 CPTS,AETC,Other,Military Pay,Saving's Deposit Program, , ,
+milpay.supervisor.3,Idea%24123,8908908824,AB,milpay.supervisor.3@,9284445792,HH4GFR2G,38444,,502 CPTS,AETC,Other,Military Pay,Separation Briefing, , ,
+milpay.tech.1,Idea%24123,8908908823,Amn,milpay.tech.1@,9284445791,HH4GFR2G,38444,,502 CPTS,AETC,Other,Military Pay,State of Legal Residence, , ,
+milpay.tech.3,Idea%24123,8908908821,SrA,milpay.tech.3@,9284445789,HH4GFR2G,38444,,502 CPTS,AETC,Other,Military Pay,Temporary Living Allowance (TLA), , ,
+submitter,Idea%24123,8908908820,SSgt,submitter@,9284445788,HH4GFR2G,38444,,502 CPTS,AETC,Other,Military Pay,Temporary Living Expense (TLE), , ,
+Submitter1,Idea%24123,8908908819,TSgt,Submitter1@,9284445787,HH4GFR2G,38444,,502 CPTS,AETC,Other,Military Pay,Thrift Savings Program, , ,
+Submitter10,Idea%24123,8908908818,MSgt,Submitter10@,9284445786,HH4GFR2G,38444,,502 CPTS,AETC,Other,Military Pay,Waiver, , ,
+Submitter2,Idea%24123,8908908817,SMSgt,Submitter2@,9284445785,HH4GFR2G,38444,,502 CPTS,AETC,Other,Travel Pay,DTS - TDY Voucher, , ,
+Submitter3,Idea%24123,8908908816,CMSgt,Submitter3@,9284445784,HH4GFR2G,38444,,502 CPTS,AETC,Other,Travel Pay,DTS CED Order Approval, , ,
+Submitter4,Idea%24123,8908908815,CMSAF,Submitter4@,9284445783,HH4GFR2G,38444,,502 CPTS,AETC,Other,Travel Pay,DTS- LOA Assistance, , ,
+Submitter5,Idea%24123,8908908814,2d Lt,Submitter5@,9284445782,HH4GFR2G,38444,,502 CPTS,AETC,Other,Travel Pay,eFinance Assistance (Reservists Only), , ,
+Submitter6,Idea%24123,8908908813,1st Lt,Submitter6@,9284445781,HH4GFR2G,38444,,502 CPTS,AETC,Other,Travel Pay,GTC - Credit Limit Increase, , ,
+Submitter8,Idea%24123,8908908811,Maj,Submitter8@,9284445779,HH4GFR2G,38444,,502 CPTS,AETC,Other,Travel Pay,GTC - Mission Critical for Suspended Accounts, , ,
+Submitter9,Idea%24123,8908908810,Lt Col,Submitter9@,9284445778,HH4GFR2G,38444,,502 CPTS,AETC,Other,Travel Pay,GTC - Requests for APC Access, , ,
+TestBFA1,Idea%24123,8908908809,Col,TestBFA1@,9284445777,HH4GFR2G,38444,,502 CPTS,AETC,Other,Travel Pay,GTC - Requests for GTC, , ,
+TestBFA11,Idea%24123,8908908807,Maj Gen,TestBFA11@,9284445775,HH4GFR2G,38444,,502 CPTS,AETC,Other,Travel Pay,Permanent Change of Station (PCS) - Civilian, , ,
+TestBFA12,Idea%24123,8908908806,Lt Gen,TestBFA12@,9284445774,HH4GFR2G,38444,,502 CPTS,AETC,Other,Travel Pay,Permanent Change of Station (PCS) - Military, , ,
+TestBFA3,Idea%24123,8908908804,CIV,TestBFA3@,9284445772,HH4GFR2G,38444,,502 CPTS,AETC,Unit Resource Management,Budget,DTS Budget Increase,12,WF,
+TestBFA5,Idea%24123,8908908803,CTR,TestBFA5@,9284445771,HH4GFR2G,38444,,502 CPTS,AETC,Unit Resource Management,Budget,DTS Cross-Org Request,15,17,
+TestBFA7,Idea%24123,8908908802,AB,TestBFA7@,9284445770,HH4GFR2G,38444,,502 CPTS,AETC,Unit Resource Management,Budget,Funding Adjustment,18,24,
+TestBFA8,Idea%24123,8908908801,Amn,TestBFA8@,9284445769,HH4GFR2G,38444,,502 CPTS,AETC,Unit Resource Management,Budget,Funds Control,32,CY,
+TestBFA9,Idea%24123,8908908800,A1C,TestBFA9@,9284445768,HH4GFR2G,38444,,502 CPTS,AETC,Unit Resource Management,Budget,OT/428s,35,99,
+TestBo,Idea%24123,8908908799,SrA,TestBo@,9284445767,HH4GFR2G,38444,,502 CPTS,AETC,Unit Resource Management,Budget,Other,36,19,
+TestCH1,Idea%24123,8908908798,SSgt,TestCH1@,9284445766,HH4GFR2G,38444,,502 CPTS,AETC,Unit Resource Management,Budget,Reimbursements,47,95,
+TestCH2,Idea%24123,8908908797,TSgt,TestCH2@,9284445765,HH4GFR2G,38444,,502 CPTS,AETC,Unit Resource Management,Budget,System Access Request,60,71,
+TestCO1,Idea%24123,8908908796,MSgt,TestCO1@,9284445764,HH4GFR2G,38444,,502 CPTS,AETC,Unit Resource Management,Budget,UOA/Prior Year,62,10,
+TestCO3,Idea%24123,8908908795,SMSgt,TestCO3@,9284445763,HH4GFR2G,38444,,502 CPTS,AETC,Unit Accounting,Accounting,Address builds,65,ME,
+TestCO4,Idea%24123,8908908794,CMSgt,TestCO4@,9284445762,HH4GFR2G,38444,,502 CPTS,AETC,Unit Accounting,Accounting,Claim for Reimbursement - OF1164/SF1034,78,A3,
+TestContributor,Idea%24123,8908908793,CMSAF,TestContributor@,9284445761,HH4GFR2G,38444,,502 CPTS,AETC,Unit Accounting,Accounting,CSR,83,WA,
+TestCOR,Idea%24123,8908908792,2d Lt,TestCOR@,9284445760,HH4GFR2G,38444,,502 CPTS,AETC,Unit Accounting,Accounting,FMS - Delivery Reporting,CC,CY,
+TestCOR1,Idea%24123,8908908791,1st Lt,TestCOR1@,9284445759,HH4GFR2G,38444,,502 CPTS,AETC,Unit Accounting,Accounting,FMS - OA &amp; EA Authority,ET,NS,
+TestCOR2,Idea%24123,8908908790,Capt,TestCOR2@,9284445758,HH4GFR2G,38444,,502 CPTS,AETC,Unit Accounting,Accounting,Funds Certification,JT,1,
+TestCpo,Idea%24123,8908908788,Lt Col,TestCpo@,9284445756,HH4GFR2G,38444,,502 CPTS,AETC,Unit Accounting,Accounting,Interfund,LC,90,
+TestCS4,Idea%24123,8908908787,Col,TestCS4@,9284445755,HH4GFR2G,38444,,502 CPTS,AETC,Unit Accounting,Accounting,JVs/1081s,12,DC,
+testdemo,Idea%24123,8908908786,Brig Gen,testdemo@,9284445754,HH4GFR2G,38444,,502 CPTS,AETC,Unit Accounting,Accounting,MAFR,15,55,
+TestDs,Idea%24123,8908908785,Maj Gen,TestDs@,9284445753,HH4GFR2G,38444,,502 CPTS,AETC,Unit Accounting,Accounting,Other,18,54,
+TestJH1,Idea%24123,8908908782,CIV,TestJH1@,9284445750,HH4GFR2G,38444,,502 CPTS,AETC,Unit Accounting,Accounting,TAR,36,48,
+TestJH10,Idea%24123,8908908781,CTR,TestJH10@,9284445749,HH4GFR2G,38444,,502 CPTS,AETC,Unit Accounting,Accounting,WAWF,47,NJ,
